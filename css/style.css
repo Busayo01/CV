@@ -1,0 +1,31 @@
+hr { border: none;
+  border-top-style: dotted;
+  border-top-color: grey;
+  border-top-width: 5px;
+  width: 3%;
+}
+body {
+  background-color: #ECE5C7;
+}
+h2 {
+  color: #2F8F9D;
+  font-family: georgia;
+}
+h3 {
+  color: #2F8F9D;
+}
+
+.hr1 {
+  border-color: #553485;
+}
+.hr2 {
+  border-color: #2F8F9D;
+}
+.hr3 {
+  border-color: #242F9B;
+}
+img {
+  border-radius: 100%;
+  height: 200px;
+  width: 150px;
+}
